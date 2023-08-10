@@ -58,7 +58,11 @@ data
 We also introduce a new dataset PDBbind to evaluate the performance of binding region prediction, and the'ESPF' file that contains sub-structure information is provided.
 
 ## Run the SAGDTI for protein-ligand binding affinity task
-By default, you can run our model using Davis dataset with:
+At first, create the data 
+```sh
+python creat_data.py
+```
+and run it with the Davis (default) dataset:
 ```sh
 python main.py
 ```
