@@ -5,7 +5,7 @@ Results: To address these issues, we here present DrugMGR, a deep, multigranular
 
 ## Architecture
 <p align="center">
-<img src="https://github.com/lixiaokun2020/DrugMGR/blob/main/DrugMGR.png" align="middle" height="80%" width="80%" />
+<img src="https://github.com/lixiaokun2020/DrugMGR/blob/main/DrugMGR.jpg" align="middle" height="80%" width="80%" />
 </p>
 
 
