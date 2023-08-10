@@ -57,7 +57,7 @@ data
 
 We also introduce a new dataset PDBbind to evaluate the performance of binding region prediction, and the'ESPF' file that contains sub-structure information is provided.
 
-## Run the SAGDTI for protein-ligand binding affinity task
+## Run the DrugMGR for protein-ligand binding affinity task
 At first, create the data 
 ```sh
 python creat_data.py
