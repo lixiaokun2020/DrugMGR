@@ -66,6 +66,11 @@ and run it with the Davis (default) dataset:
 ```sh
 python main.py
 ```
+Compound screening
+```sh
+cd Target-specific compound screening
+python evaluate.py
+```
 
 # Attention visualization
 If you users want to introduce the attention score in their own tools, please see the attention_demo.py file for a simple tutorial.
